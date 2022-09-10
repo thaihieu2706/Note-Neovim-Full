@@ -1,0 +1,18 @@
+ === di chuyen giua cac file khi code ===  
+   . space -> e > shift + j (k)
+ 
+
+ === di chuyen den cac ham trong ma code ===
+   . shift + t 
+
+ === di chuyen den dau cac chu trong cung 1 dong ===
+   . shift + q
+
+ === xoa tat ca phia sau trong dong tu vi tri con tro
+   . shift + c 
+
+ === Ctrl + "
+
+
+ === hien thi thong tin cach su dung cac cau lenh === 
+   . shift + k
